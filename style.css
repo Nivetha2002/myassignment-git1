@@ -1,7 +1,7 @@
 .txt{
   text-align: center;
   color:blue;
-  font-size:900%;
+  font-size:450%;
   background-color: ivory;
   text-emphasis: italic;
 }
@@ -9,14 +9,14 @@
   text-align: center;
   text-decoration-style: dotted;
   color:purple;
-  font-size:500%;
+  font-size:250%;
   background-color: ivory;
   text-emphasis: italic;
 }
 .txtrr{
   text-align: center;
   color:white;
-  font-size:500%;
+  font-size:250%;
   text-emphasis: italic;
 }
 .img{
@@ -29,19 +29,19 @@
   text-align: center;
   color:black;
   font-style: italic;
-  font-size:500%;
+  font-size:250%;
 
 }
 .txtr2{
   text-align:right;
   color:blue;
-  font-size:500%;
+  font-size:250%;
   text-emphasis: italic;
 }
 .txt4{
   text-align: center;
   font-style: italic;
   color:black;
-  font-size:700%;
+  font-size:350%;
   text-emphasis: italic;
 }
